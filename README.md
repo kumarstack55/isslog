@@ -22,7 +22,7 @@ Therefore, we implement a simple wrapper command to wrap the `script` command.
 ```bash
 # bash
 
-git clone https://...
+git clone https://github.com/kumarstack55/isslog.git
 
 # Build and create the binary.
 cd ./isslog
